@@ -9,7 +9,8 @@
 
 *italics* and **BOLD**
 
-I need to highlight these == very important words ==
+I need to highlight these ==very important words== or on a new line \
+maybe these <mark>also very important words</mark>
 
 ## Checklist Syntax
 
