@@ -9,6 +9,8 @@
 
 *italics* and **BOLD**
 
+I need to highlight these ==very important words==.
+
 ## Checklist Syntax
 
 - [ ] Empty Checkbox
@@ -40,3 +42,4 @@ Wrap text in ``` and it becomes a {code block}
 
 ## Block Quote Syntax
 > Something a famous person said - Famous Person
+
