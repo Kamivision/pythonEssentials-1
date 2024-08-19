@@ -7,13 +7,12 @@
 
 ## Text Decoration Syntax
 
-*italics*
-**BOLD**
+*italics* and **BOLD**
 
 ## Checklist Syntax
 
--[ ] Empty Checkbox
--[x] Filled Checkbox
+- [ ] Empty Checkbox
+- [x] Filled Checkbox
 
 ## Bullet List Syntax
 
