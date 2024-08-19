@@ -9,7 +9,7 @@
 
 *italics* and **BOLD**
 
-I need to highlight these ==very important words==.
+I need to highlight these ==very important words==
 
 ## Checklist Syntax
 
