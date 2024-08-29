@@ -44,6 +44,8 @@ variables are created by using the assignment operator ( = )\
 - Prompts user to input some data 
 - Is a string by default but can be converted
 - Should contain a message to prompt user
+
+
 > ex. number = input("Please enter a number: ")\
 > 
 > ex. number = int(input("Enter a whole number: ")) - with conversion
