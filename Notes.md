@@ -1,4 +1,4 @@
-#  <center> Python Essentials 1 </center>
+#  <center> Python Essentials 1 </center> <p align=center> 
 # Modules 1, 2, & 3
 
 ## Literals
