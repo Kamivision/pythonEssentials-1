@@ -29,3 +29,19 @@ variables are created by using the assignment operator ( = )\
 - Best practice is to comment and explain each piece of important code
 - Can be used to turn on and off sections of code you're testing
 - To quickly comment or comment blocks of code use keyboard shortcut <strong> ctrl + \ </strong>
+
+## User Interactions
+
+### input() funtion
+
+- Prompts user to input some data 
+- Is a string by default but can be converted
+- Should contain a message to prompt user
+> ex. number = input("Please enter a number: ")\
+> 
+> ex. number = int(input("Enter a whole number: ")) - with conversion
+
+### print() function
+
+- Displays data for the user
+- Accepts any data type
